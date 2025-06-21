@@ -28,4 +28,6 @@ This is a simple implementation of the classic Flappy Bird game using HTML, CSS,
 
 ## How to Run
 
-Simply open the `flappy-bird.html` file in a modern web browser.
+**🎉 Try the production ready game at [https://vibe-flappy-bird.my.canva.site/](https://vibe-flappy-bird.my.canva.site/) 🎉**
+
+Alternatively, simply open the `flappy-bird.html` (or `flappy-bird-responsive.html` if you are testing development versions) file in a modern web browser from the repository.
